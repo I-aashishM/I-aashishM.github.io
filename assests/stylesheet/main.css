@@ -231,7 +231,7 @@ body{
     position: relative;
     width: 100%;
     height: 800px;
-    background-image: url("assests/images/main2.jpg");
+    background-image: url("http://assests/images/main2.jpg");
     background-attachment: fixed;
     background-size: 100% 100%;
 }
@@ -339,7 +339,7 @@ body{
 }
 /***************SLIDE******************/
 .div_6{
-    background-image: url("assests/images/slid.jpg");
+    background-image: url("http://assests/images/slid.jpg");
     background-attachment: fixed;
     background-size: 100% 100%;
     height: 400px;
